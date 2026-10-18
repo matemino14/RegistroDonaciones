@@ -87,7 +87,7 @@ fun PantallaRegistro(modifier: Modifier = Modifier) {
         verticalArrangement = Arrangement.spacedBy(12.dp)
     ) {
         Text(
-            text = "Control de Inventarios - Prueba GitHub",
+            text = "Control de Inventarios de la Fundación Familia de Familias",
             style = MaterialTheme.typography.headlineSmall,
             fontWeight = FontWeight.Bold
         )
